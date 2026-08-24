@@ -1,0 +1,42 @@
+[block]
+- p  : 단락태그
+- h1~h6  : 제목태그 (heading)
+- br  : 줄바꿈 태그
+  <br>     : html5는 / 생략 가능
+  <br />   : xhtml은 / 필수
+- hr  : 구분선태그
+
+[inline]
+- span  : 의미없는 텍스트 태그 - 글자를 이쁘게 꾸미기 위한 태그
+- strong  : 강조태그  - 굵은 글씨체(bold)
+- em  : 강조태그  - 기울임꼴 글씨체(italic)
+- sup  : 위첨자
+- sub  : 아래첨자
+
+- b  : bold
+- i  : italic
+**** b, i는 강조태그 X
+
+[a태그]
+a  : 링크 태그
+<a href="링크"></a>
+- url을 작성할 경우 반드시 "http://"를 입력한다.
+- 밑줄, 파랑(link), 보라(visited), 빨간색(active)의 스타일을 가지고 있다.
+- 아직 링크주소가 없을 경우 href="#"을 입력해야 한다.
+- 연결된 파일 형식에 따라 미리보기가 실행되거나 파일이 다운로드가 실행된다.
+  : pdf, 이미지(jpg, png, gif, svg, webm...) 등은 미리보기가 실행
+  : office파일(pptx, xlse...), 한글(hwp), 압축파일 등은 다운로드가 실행
+
+****** target="_blank"는 반드시 title="새창"을 함께 사용해야 한다.
+
+_blank, _self, _parent, _top
+
+
+
+https://naver.me/539ANCFO
+
+sbs1234
+
+
+
+
